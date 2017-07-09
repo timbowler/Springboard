@@ -10,7 +10,7 @@
 
 3. What data are you going to use for this? How will you acquire this data?
 
-    The Ames Housing dataset compiled by Dean De Cock and used as a Kaggle competition used by data science students looking to expand their skill set.  The data is available at the [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) website.
+    The Ames Housing dataset compiled by Dean De Cock and used as a Kaggle competition by data science students looking to expand their skill set.  The data is available at the [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) website.
 
 4. In brief, outline your approach to solving this problem (knowing that this might change later).
 What are your deliverables? Typically, this would include code, along with a paper and/or a slide deck.
